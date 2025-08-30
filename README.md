@@ -1,5 +1,7 @@
 ## Hi, I'm Leo 🔬
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PilotLeoYan&theme=transparent">
+
 I am very passionate about machine learning and philosophy. I want to be a machine learning research.
 
 My top:
@@ -15,11 +17,12 @@ My top:
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PilotLeoYan&show_icons=true&theme=transparent)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PilotLeoYan&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilotLeoYan&theme=transparent)
+<a href="https://github-readme-stats.vercel.app/api?username=PilotLeoYan&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PilotLeoYan&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=PilotLeoYan&theme=transparent">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PilotLeoYan&theme=transparent" />
+</a>
 
 ## Contacts
 
