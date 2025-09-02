@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PilotLeoYan&theme=transparent">
 
-I am very passionate about machine learning and philosophy. I want to be a machine learning research.
+I am very passionate about machine learning and philosophy. I want to be a machine learning researcher.
 
 My top:
 + Python
