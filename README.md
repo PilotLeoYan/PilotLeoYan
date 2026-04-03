@@ -1,7 +1,5 @@
 <div align='center'>
 
-![Leonardo Banner](banner_tiny.jpg)
-
 ## LeoYan from scratch
 
 </div>
@@ -30,5 +28,9 @@
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PilotLeoYan&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+## Check my repos
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" height="80"/>
 
 </div>
