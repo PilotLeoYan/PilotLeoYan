@@ -10,7 +10,7 @@
 + 📚️ Currently studying Computer Science in the [University of Guadalajara](https://www.udg.mx/en?q=es)
 + 📨 Contact me at [leofabyano@gmail.com](mailto:leofabyano@gmail.com)
 + 🌐 Linkedin [profile](https://www.linkedin.com/in/leonardo-ortega-rivera-8b0460346/)
-+ 🎯 My aim, be a Machine Learning Research
++ 🎯 My aim, be a Machine Learning Researcher
 
 <div align='center'>
 
