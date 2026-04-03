@@ -1,5 +1,7 @@
 <div align='center'>
 
+![Banner](banner_tiny.jpg)
+
 ## LeoYan from scratch
 
 </div>
