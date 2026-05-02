@@ -25,7 +25,7 @@
 
 | Data Science | Competitive Programming |
 | --- | --- |
-| [![Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/leoyan955) <br> ![Kaggle](https://www.kaggle.com/leoyan955) | [![CodeForces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/LeoYan955) <br><br> ![CodeForces](https://codeforces.com/profile/LeoYan955) |
+| [![Kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/leoyan955) <br> [Kaggle](https://www.kaggle.com/leoyan955) | [![CodeForces](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg)](https://codeforces.com/profile/LeoYan955) <br><br> [CodeForces](https://codeforces.com/profile/LeoYan955) |
 
 ## GitHub Stats
 
