@@ -47,6 +47,19 @@
 
 ---
 
+### 🔭 [DeepLense Gravitational Lensing Classifier](https://github.com/PilotLeoYan/GSoC26-DeepLense)
+*Physics-Guided Machine Learning & Dark Matter Substructure Detection (ML4Sci Challenge)*  
+[![Repo](https://img.shields.io/badge/GitHub-GSoC26--DeepLense-black?style=flat-square&logo=github)](https://github.com/PilotLeoYan/GSoC26-DeepLense)
+[![Physics](https://img.shields.io/badge/Physics--Guided-PINN_%26_RSR-blueviolet?style=flat-square)](https://github.com/PilotLeoYan/GSoC26-DeepLense)
+[![Optuna](https://img.shields.io/badge/Optuna-Bayesian_HPS-4183C4?style=flat-square)](https://github.com/PilotLeoYan/GSoC26-DeepLense)
+[![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.9915-brightgreen?style=flat-square)](https://github.com/PilotLeoYan/GSoC26-DeepLense)
+
+- **Physics-Informed Architecture:** Developed a Physics-Informed Neural Network (PINN) leveraging Radial Symmetry Residuals (RSR), a parameter-free mapping that isolates non-axisymmetric perturbations from the idealized Singular Isothermal Sphere (SIS) gravitational lensing model.
+- **Modified Vision Backbone:** Adapted ResNet-18 to accept multi-channel tensors (raw lensing flux concatenated with RSR maps); conducted Bayesian hyperparameter optimization with Optuna over 100 epochs, achieving **93.76% validation accuracy** and a macro-average **0.9915 One-vs-Rest ROC-AUC**.
+- **Interpretability & Manifold Analysis:** Validated physical feature localization via Grad-CAM saliency maps (localizing on genuine mass subhalos rather than global flux artifacts); performed topological manifold analysis (Silhouette: $-0.0022$, Davies-Bouldin: $109.92$) demonstrating severe linear non-separability, formally justifying deep convolutional representations over shallow methods.
+
+---
+
 ### 🎥 [Recurrent Convolutional Neural Networks](https://github.com/PilotLeoYan/Recurrent-Convolution-NN)
 *Spatiotemporal Modeling & Multi-Frame Video Prediction*  
 [![Repo](https://img.shields.io/badge/GitHub-Recurrent--Convolution--NN-black?style=flat-square&logo=github)](https://github.com/PilotLeoYan/Recurrent-Convolution-NN)
@@ -86,25 +99,12 @@
 
 ## 2. Methodological & Technical Arsenal
 
-```
-┌──────────────────────────────────┬──────────────────────────────────┐
-│ Category                         │ Technologies & Competencies      │
-├──────────────────────────────────┼──────────────────────────────────┤
-│ 💻 Core Languages                │ Python 3, C++ (C++17 Algorithms) │
-│                                  │ SQL, POSIX Bash                  │
-├──────────────────────────────────┼──────────────────────────────────┤
-│ 📐 Deep Learning & Numerics      │ PyTorch, Tensor Algebra (einsum) │
-│                                  │ NumPy, Computer Vision, Optuna   │
-│                                  │ Scikit-Learn, PINN Formulation   │
-├──────────────────────────────────┼──────────────────────────────────┤
-│ 🛠️ Software Craftsmanship       │ Astral uv, Strict Mypy, Ruff     │
-│    & MLOps                       │ GitHub Actions CI/CD, Git        │
-│                                  │ Bandit (SAST), Linux (Debian)    │
-├──────────────────────────────────┼──────────────────────────────────┤
-│ 🗄️ Databases & Systems           │ SQLite3 (WAL Concurrency), MySQL │
-│                                  │ Relational Modeling, LAN Systems │
-└──────────────────────────────────┴──────────────────────────────────┘
-```
+| Domain / Category | Core Technologies & Competencies |
+| :--- | :--- |
+| **💻 Core Languages** | **Python 3**, **C++ (C++17 for Algorithms & Data Structures)**, **SQL**, **POSIX Bash** |
+| **📐 Deep Learning & Numerics** | **PyTorch**, Tensor Algebra (`torch.einsum`), **NumPy**, Computer Vision, **Optuna**, Scikit-Learn, Physics-Guided ML (PINN / RSR) |
+| **🛠️ Software Craftsmanship & MLOps** | **Astral uv**, Strict Static Typing (**Mypy**), **Ruff**, GitHub Actions (CI/CD), **Git**, **Bandit (SAST)**, Linux (Debian) |
+| **🗄️ Databases & Systems** | **SQLite3 (WAL Mode & Concurrency)**, **MySQL**, Relational Schema Design, Local Area Network (LAN) Systems |
 
 ---
 
