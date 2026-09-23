@@ -7,11 +7,11 @@
   <b>Leonardo Fabyan Ortega Rivera</b><br>
   <sub>Department of Computer Science · Universidad de Guadalajara (CUCEI)</sub><br>
   <sub>Guadalajara, Jalisco, México</sub><br><br>
+  <a href="cv-harvard-eng-v.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF_Download-red?style=for-the-badge&logo=adobeacrobatreader" alt="Curriculum Vitae (PDF)"></a><br><br>
   <a href="mailto:leofabyano@gmail.com"><img src="https://img.shields.io/badge/Email-leofabyano%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/leonardo-fabyan-ortega-rivera-8b0460346/"><img src="https://img.shields.io/badge/LinkedIn-Leonardo_Ortega-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0004-0497-2808"><img src="https://img.shields.io/badge/ORCID-0009--0004--0497--2808-A6CE39?style=flat-square&logo=orcid" alt="ORCID"></a>
   <a href="https://codeforces.com/profile/LeoYan955"><img src="https://img.shields.io/badge/Codeforces-LeoYan955-1F8ACB?style=flat-square&logo=codeforces" alt="Codeforces"></a>
-  <a href="cv-harvard-eng-v.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=flat-square&logo=adobeacrobatreader" alt="Curriculum Vitae (PDF)"></a>
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
